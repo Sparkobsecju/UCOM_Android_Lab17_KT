@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lab17_KT</string>
+    <string name="income_add">新增一筆收入</string>
+    <string name="income_query">查詢收入</string>
+    <string name="income_mod">修改該筆資料</string>
+    <string name="del_enable">刪除模式</string>
+    <string name="del_disable">修改模式</string>
+
 </resources>
